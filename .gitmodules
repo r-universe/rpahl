@@ -8,3 +8,8 @@
 	url = https://github.com/rpahl/container
 	shallow = true
 	registered = true
+[submodule "GroupSeq"]
+	path = GroupSeq
+	url = https://github.com/rpahl/groupseq
+	shallow = true
+	registered = true
