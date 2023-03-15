@@ -1,10 +1,10 @@
 [
   {
-    "package": "GroupSeq",
+    "package": "container",
     "oncran": true
   },
   {
-    "package": "container",
+    "package": "GroupSeq",
     "oncran": true
   }
 ]
