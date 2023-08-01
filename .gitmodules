@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "container"]
-	path = container
-	url = https://github.com/rpahl/container
 [submodule "GroupSeq"]
 	path = GroupSeq
 	url = https://github.com/rpahl/groupseq
+[submodule "container"]
+	path = container
+	url = https://github.com/rpahl/container
